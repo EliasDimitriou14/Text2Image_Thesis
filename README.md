@@ -14,6 +14,6 @@ I also have added some more code of my own for image slicing and storing in file
 This repository contains ONLY the code of the thesis.The rest of the useful files for execution can be found at the links above!!!
 
 
-Sample image(21  epochs)
+# Sample image(21  epochs)
 
 ![train5_20](https://user-images.githubusercontent.com/75016825/124499724-2aba1280-ddc7-11eb-9921-1e64116a71fc.png)
