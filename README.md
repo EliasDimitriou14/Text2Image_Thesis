@@ -3,7 +3,7 @@
 
 This repository contains ONLY the code of the thesis.Some useful files may be found at the links below.
 
-# implementation
+# Implementation
 This is the code of my thesis which uses the algorithm of CLS-GAN and StackGAN found at:https://github.com/hellochick/text-to-image		
 
 
