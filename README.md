@@ -1,7 +1,7 @@
 # Text2Image_Thesis
 
 
-This repository contains ONLY the code of the thesis.The rest of the useful files for execution can be found at the links above!!!
+This repository contains ONLY the code of the thesis.Some useful files may be found at the links below.
 
 # implementation
 This is the code of my thesis which uses the algorithm of CLS-GAN and StackGAN found at:https://github.com/hellochick/text-to-image		
