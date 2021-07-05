@@ -11,7 +11,7 @@ This implementation makes  use of  the algorithm of CLS-GAN and StackGAN found a
 
 
 # Prepare Data
-Download image files and captions from Google Drive, put into ./text-to-image directory
+Download image files and captions from [Google Drive](https://drive.google.com/drive/folders/1aUJrBoIN3l9U5p5pNXT0NeNzlyBWF54u?usp=sharing), put into ./text-to-image directory
 
 
 # Evaluation Metrics
