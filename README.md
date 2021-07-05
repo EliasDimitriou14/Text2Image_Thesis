@@ -6,6 +6,10 @@ This is the code of my thesis which uses the algorithm of CLS-GAN and StackGAN f
 ![architecture](https://user-images.githubusercontent.com/75016825/124499785-47564a80-ddc7-11eb-9e7b-c87c9ee95c5e.jpeg)
 
 
+# Prepare Data
+Download image files and captions from Google Drive, put into ./text-to-image directory
+
+
 I have also added the implemantation of IS and FID from:https://github.com/tsc2017/Frechet-Inception-Distance,
 https://github.com/tsc2017/Inception-Score having made some adjustments to the code
 
