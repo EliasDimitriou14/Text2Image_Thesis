@@ -18,13 +18,13 @@ Download image files and captions from Google Drive, put into ./text-to-image di
 I have also added the implemantation of IS and FID from:https://github.com/tsc2017/Frechet-Inception-Distance,
 https://github.com/tsc2017/Inception-Score having made some adjustments to the code
 
--fid_score.py
--inception_score.py
+* fid_score.py
+* inception_score.py
 
 # Slice images & store
 I also have added some more code of my own for image slicing and storing in files
 
--slice_and_move.py
+* slice_and_move.py
 
 # Sample image(21  epochs)
 
